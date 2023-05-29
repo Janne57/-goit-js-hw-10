@@ -1,0 +1,23 @@
+
+.imgcat {
+    display: block;
+    min-width: 100%;
+    height: auto;   
+}
+
+.add {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    margin-top: 60px;
+    padding-top: 5px;  
+}
+.addTwo {
+    display: flex;
+    flex-direction: column;
+}
+
+.is-hidden {
+    display: none;
+    opacity: 1;
+}
